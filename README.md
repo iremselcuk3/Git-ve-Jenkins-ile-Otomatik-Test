@@ -1,0 +1,1 @@
+# Git-ve-Jenkins-ile-Otomatik-Test
